@@ -1,11 +1,11 @@
 # main links
 main:
   - title: "Archive"
-    url: /year-archive/
+    url: /_pages/year-archive/
   - title: "Tag"
-    url: /tags/
+    url: /_pages/tags/
   - title: "Category"
-    url: /categories/
+    url: /_pages/categories/
   # - title: "Quick-Start Guide"
   #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   # - title: "About"
