@@ -1,7 +1,7 @@
 ---
 title: "190105, Jekyll Blog 설정"
 date: 2019-01-05 18:00:28 -0400
-categories: 190105
+categories: "190105"
 ---
 Github에 Jekyll blog를 설치했다. <br>
 그냥 기본 화면 띄우고 댓글란 활성화 시키는 데만 4시간 걸림...ㅠㅠ
