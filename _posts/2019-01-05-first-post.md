@@ -1,5 +1,5 @@
 ---
-title: "190105, Jekyll Blog 설정"
+title: "190105, Jekyll Blog 설정!"
 date: 2019-01-05 18:00:28 -0400
 categories: "190105"
 ---
